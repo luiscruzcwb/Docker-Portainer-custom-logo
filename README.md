@@ -20,3 +20,5 @@ services:
 ```
 
 Para mais informações sobre o Portainer - administração de containers acesse: https://docs.portainer.io
+
+<p><strong><img style="float: left;" src="https://www.pngfind.com/pngs/m/537-5378357_portainer-io-logo-hd-png-download.png" alt="" width="50" height="50" /></strong></p>
