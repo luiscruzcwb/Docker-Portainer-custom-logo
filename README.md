@@ -21,4 +21,4 @@ services:
 
 Para mais informações sobre o Portainer - administração de containers acesse: https://docs.portainer.io
 
-<p><strong><img style="float: left;" src="https://www.portainer.io/hubfs/portainer-logo-black.svg" alt="" width="50" height="50" /></strong></p>
+<p><strong><img style="float: left;" src="https://www.portainer.io/hubfs/portainer-logo-black.svg" alt="" width="200" height="200" /></strong></p>
